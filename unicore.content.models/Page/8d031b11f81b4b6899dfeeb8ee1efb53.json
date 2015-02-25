@@ -4,14 +4,14 @@
   "language": "spa_ES", 
   "title": "Todos los nin\u0303os y nin\u0303as tienen derecho a disponer de informacio\u0301n adecuada para su edad, a que se les escuche, y a participar en la toma de decisiones que les conciernen. La satisfaccio\u0301n de este de", 
   "primary_category": "f7530af2e7384c7095b65f2139c969d4", 
-  "created_at": "2015-01-05T12:46:14.416446+00:00", 
+  "created_at": "2015-01-05T12:46:14+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-05T12:46:14.416687+00:00", 
+  "modified_at": "2015-02-25T15:35:30.299638+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
