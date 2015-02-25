@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Utilizar \"\u00b4pacha\" y alimentar al bebe\u0301 con suced\u00e1neos de la leche materna, como preparaciones para lactantes y leche de origen animal, puede poner en riesgo su salud y su supervivencia. En caso de que la madre no pueda amamantar, debe extraerse la leche y d\u00e1rsela al bebe\u0301 o, de ser necesario, se debe alimentar al bebe\u0301 con un suced\u00e1neo de la leche materna de buena calidad, utilizando una taza limpia.", 
+  "description": "Utilizar \"pacha\" y alimentar al bebe\u0301 con suced\u00e1neos de la leche materna, como preparaciones para lactantes y leche de origen animal, puede poner en riesgo su salud y su supervivencia. En caso de que la madre no pueda amamantar, debe extraerse la leche y d\u00e1rsela al bebe\u0301 o, de ser necesario, se debe alimentar al bebe\u0301 con un suced\u00e1neo de la leche materna de buena calidad, utilizando una taza limpia.", 
   "language": "spa_ES", 
   "title": "Utilizar \"pacha\" y alimentar al bebe\u0301 con suced\u00e1neos de la leche materna, como preparaciones para lactantes y leche de origen animal, puede poner en riesgo su salud y su supervivencia.", 
   "primary_category": "377891a80fe44dcca51650e91c314611", 
   "created_at": "2015-01-01T22:34:00+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-25T14:25:38.561582+00:00", 
+  "modified_at": "2015-02-25T15:40:14.949865+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
